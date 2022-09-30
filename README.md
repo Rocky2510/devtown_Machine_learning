@@ -1,6 +1,6 @@
 # devtown_Python_MachineLearningBC
 Mentor : Mr.Shaurya Sinha Sir
-# devtown PYTHON AND MACHINE LEARNING BOOTCAMP
+# devtown MACHINE LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> devtown
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
